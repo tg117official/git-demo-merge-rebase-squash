@@ -14,3 +14,4 @@ This feature branch is used to demonstrate rebase.
 ## Squash Demo Feature
 Line 1 for squash demo
 Line 2 for squash demo
+Line 3 for squash demo
